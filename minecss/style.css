@@ -158,8 +158,9 @@ html {
 }
 
 .a-tag{
-       padding: 68px 80px;
-       display: block;
+    padding: 68px 0px;
+    display: block;
+    text-align: center;
 }
 .a-tag a{
    color: white;
